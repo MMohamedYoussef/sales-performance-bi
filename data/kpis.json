@@ -1,0 +1,9 @@
+{
+  "orders": 2000,
+  "gross_revenue_usd": 330006,
+  "refunds_usd": 28023,
+  "net_revenue_usd": 301983,
+  "cogs_usd": 129120,
+  "profit_usd": 172863,
+  "return_rate": 0.0815
+}
